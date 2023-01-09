@@ -1,4 +1,4 @@
 <h1>HelloWorld</h1>
 
-<img src="Screenshot_Hello_World.PNG">
+<img src="Hello_World_Screenshot.PNG">
 Hello, World! by Karsten Juranek
